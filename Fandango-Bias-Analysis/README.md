@@ -15,8 +15,8 @@
 * **Seaborn/Matplotlib:** Visualizing distributions (KDE plots) and correlations (Heatmaps).
 
 ## 📂 File Structure
-* `Fandango_Analysis_Final.ipynb`: The main Jupyter Notebook containing the code and visualizations.
+* `Fandango_Analysis.ipynb`: The main Jupyter Notebook containing the code and visualizations.
 * `data/`: Contains the raw datasets (`fandango_scrape.csv` and `all_sites_scores.csv`).
 
 ## 📈 Visualizations
-*(Note: You can drag and drop your "KDE Comparison" image here after running the notebook)*
+
