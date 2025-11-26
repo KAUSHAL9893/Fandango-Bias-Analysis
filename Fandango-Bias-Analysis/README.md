@@ -22,7 +22,7 @@
 
 ### 1. Evidence of Rating Inflation
 ![Distribution Bias](images/distribution_bias.png)
-*Fandango's ratings (Red) are skewed heavily positive compared to Rotten Tomatoes (Blue).*
+*Fandango's ratings (Orange) are skewed heavily positive compared to Rotten Tomatoes (Blue).*
 
 ### 2. Distribution Of Ratings Across All Sites
 ![KDE Plot](images/distribution_of_ratings.png)
