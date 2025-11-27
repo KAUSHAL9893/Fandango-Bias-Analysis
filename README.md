@@ -21,14 +21,14 @@
 ## 📈 Visualizations
 
 ### 1. Evidence of Rating Inflation
-![Distribution Bias](images/distribution_bias.png)
+![Distribution Bias](Fandango-Bias-Analysis/images/distribution_bias.png)
 *Fandango's ratings (Orange) are skewed heavily positive compared to Rotten Tomatoes (Blue).*
 
 ### 2. Distribution Of Ratings Across All Sites
-![KDE Plot](images/distribution_of_ratings.png)
+![KDE Plot](Fandango-Bias-Analysis/images/distribution_of_ratings.png)
 *Comparison of all the ratings from all the sites to provide an overview.*
 
 ### 3. The Rounding Mechanism
-![Rounding Proof](images/rounding_mechanism.png)
+![Rounding Proof](Fandango-Bias-Analysis/images/rounding_mechanism.png)
 *Fandango systematically rounds "Actual Ratings" (Red) up to the nearest half-star (Blue).*
 
